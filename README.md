@@ -37,12 +37,16 @@ This analysis aims to uncover the different customers segments, purchase trends 
 ##  Business Questions To Answer
 ### Generic Question
 1.How many unique cities does the data have?
+
 2.In which city is each branch?
 
 ### Product Related Questions
 1.How many unique product lines does the data have?
+
 2.What is the most common payment method?
+
 3.What is the most selling product line?
+
 4.What is the total revenue by month?
 5.What month had the largest COGS?
 6.What product line had the largest revenue?
