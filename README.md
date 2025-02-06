@@ -161,5 +161,5 @@ For the rest of the code, check the
  gross_income DECIMAL(12,4),	
  Rating DECIMAL(2,1)
  );
-
- ### Author - Arjun Chanda
+```
+ ## Author - Arjun Chanda
