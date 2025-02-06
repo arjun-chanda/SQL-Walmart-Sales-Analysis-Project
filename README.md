@@ -162,4 +162,4 @@ For the rest of the code, check the
  Rating DECIMAL(2,1)
  );
 
-  ## Author - Arjun Chanda
+ ### Author - Arjun Chanda
